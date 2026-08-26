@@ -441,48 +441,4 @@ JWT_SECRET=your_production_jwt_secret
 JWT_REFRESH_SECRET=your_production_refresh_secret
 ```
 
-### Docker Deployment
-```bash
-# Build Docker images
-docker-compose build
-
-# Run with Docker Compose
-docker-compose up -d
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Code Style Guidelines
-- Use ESLint for code linting
-- Follow Prettier for code formatting
-- Write meaningful commit messages
-- Add tests for new features
-- Update documentation
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and queries:
-- **Email**: support@society360.com
-- **Phone**: +91 9680211602
-- **Website**: https://society360.com
-
-## 🙏 Acknowledgments
-
-- **Civora Nexus Pvt. Ltd.** - For the opportunity and guidance
-- **React Team** - For the amazing UI framework
-- **MongoDB** - For the robust database solution
-- **Tailwind CSS** - For the utility-first CSS framework
-
----
-
 **© 2026 Society360. All rights reserved.**
